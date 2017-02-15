@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
+    <td align="center" colspan="3"><b>Лінгвістичні компетенції</b></td>
   </tr>
             <tr>
                 <td align="center"><b>Лексична</b></td>
@@ -16,27 +16,29 @@
                 <td width="25%" style="vertical-align:top !important;">
 Особисті дані.<br>
 Природні ресурси.<br>
-Проблеми довкілля.<br>
+Довкілля.<br>
 Рослинний і тваринний світ.<br>
 Види радіо-і телепрограм.<br>
 Сайти в Інтернеті. <br>
-Течи молодіжної культури. <br>
-Види наук. <br>
+Течії молодіжної культури. <br>
 Винаходи. <br>
-Назви англомовних країн та їх столиць.<br> 
-Визначні місця англомовних країн.<br> 
-Назви пам’яток культури України.<br>
- Професійні якості. <br>
- Трудові навички</td>
+Пам’ятки історії та культури.<br>
+Характеристики професій</td>
 <td width="50%" style="vertical-align:top !important;">
-<b>Дієслово:</b><br>
-The Gerund. The Infinitive. Conditional 1. Relative Clause.<br>
-<b>Займенник:</b><br>
-відносний - who, which, that.<br>
-<b>Сполучник:</b><br> 
-if, in, order to
+- présent de l’indicatif<br>
+- futur simple, futur immédiat<br>
+- imparfait<br>
+- passé composé<br>
+- plus-que-parfait<br>
+- futur dans le passé<br>
+- пасивний стан дієслів<br>
+- умовний спосіб теперішнього часу<br>
+- les pronoms relatifs composés<br>
+- les noms de groupe  <br>
+- вживання дієслівних форм після si  <br>
+- структура c’est pour + infinitif
 </td>
-<td width="25%" style="vertical-align:top !important;">Вимова в цілому досить чітка для розуміння, незважаючи на присутність помітного акценту. Під час спілкування може виникати необхідність перепитувати та повторювати. Наголос у складних іменниках, прикметниках, прислівниках тощо.</td>
+<td width="25%" style="vertical-align:top !important;">Удосконалення знань, навичок і вмінь набутих у попередні роки навчання</td>
             </tr>
 </table>
 

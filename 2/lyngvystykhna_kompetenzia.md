@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
+    <td align="center" colspan="3"><b>Лінгвістичні компетенції</b></td>
   </tr>
             <tr>
                 <td align="center"><b>Лексична</b></td>
@@ -15,35 +15,29 @@
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
 Зовнішність людини.<br>
-Риси характеру.<br>
+Назви рис  характеру.<br>
 Види магазинів.<br>
 Основний асортимент товарів.<br>
 Гроші.<br>
 Назви страв.<br>
 Види спорту.<br>
 Види транспорту.<br>
-Назви проїзних документів.<br>
+Проїзні документи.<br>
 Визначні місця столиць.<br>
-Види діяльності на уроках</td>
+Види діяльності на уроках<br>
+Улюблені предмети</td>
 <td width="50%" style="vertical-align:top !important;">
-<b>Артикль:</b><br>
-відсутність артиклю.<br>
-<b>Іменник:</b><br>
-власні і загальні назви.<br>
-<b>Дієслово:</b><br>
-повторення видо-часових форм дієслова. Модальні дієслова і структури: may, must, саn / could, have to / had to would / wouldn’t (like).<br>
-<b>Займенник:</b><br>
-абсолютні mine, yours, his, hers, its, ours, theirs.<br>
-<b>Прислівник: </b> <br>
-способу дії (slowly, well, etc.). Ступені порівняння прислівників. <br>
-<b>Сполучник:</b> <br>
-but, because. <br>
-<b>Числівник: </b><br>
-кількісні до 1000.<br>  
-<b>Прийменник: </b> <br>
-приналежності (of, with, without)
+- présent de l’indicatif<br>
+- présent progressif<br>
+- expression de la durée<br>
+- passé composé<br>
+- imparfait<br>
+- futur simple, futur immédiat<br>
+- вказівні займенники<br>
+- присвійні прикметники<br>
+- присвійні займенники
 </td>
-<td width="25%" style="vertical-align:top !important;">Інтонація речень з порівняннями. Випадки наголошення прийменників, сполучників у реченнях</td>
+<td width="25%" style="vertical-align:top !important;">Удосконалення знань, навичок і вмінь набутих у попередні роки навчання</td>
             </tr>
 </table>
 

@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
+    <td align="center" colspan="3"><b>Лінгвістичні компетенції</b></td>
   </tr>
             <tr>
                 <td align="center"><b>Лексична</b></td>
@@ -14,33 +14,31 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Види домашніх обов’язків. <br>
-Родинні свята. <br>
-Кухонні прилади. <br>
-Посуд. <br>
+Домашні обов’язки.<br>
+Родинні свята.<br>
+Кухонні прилади.<br>
+Посуд.<br>
 Види обробки продуктів харчування.<br>
-Назви медичних закладів. <br>
-Жанри фільмів / вистав. <br>
-Елементи інтер’єру кінотеатру / театру.<br> 
+Медичні заклади.<br>
+Симптоми захворювань.<br>
+Лікарські засоби.<br>
+Кіно, театр: афіші, квитки, зал. <br>
 Види спортивних змагань. <br>
 Спортивні клуби, секції. <br>
-Визначні місця столиць. <br>
+Характеристика визначних місць.<br>
 Види позакласних заходів</td>
 <td width="50%" style="vertical-align:top !important;">
-<b>Дієслово:</b><br>
-Past Perfect. Tag-questions. Модальні дієслова: must / mustn't; need / needn't; should / shouldn't.<br>
-<b>Займенник:</b><br>
-зворотні (myself, ourselves, etc.); ступеню (enough, too... a little, much).<br>
-<b>Прислівник:</b><br>
-часу (just, ever), ступеню (a lot, a little).<br>
-<b>Сполучник:</b><br>
-so, then.<br>
-<b>Числівник:</b><br>
-порядкові до 1000.<br>
-<b>Прийменник:</b><br>
-часу oefore, after, for, since
+- особові займенники в ролі прямого та непрямого додатку<br>
+- займенники у, en<br>
+- ступені порівняння прикметників та прислівників<br>
+- présent de l’indicatif<br>
+- futur simple, futur immédiat<br>
+- imparfait<br>
+- passé composé<br>
+- plus-que-parfait<br>
+- обмежувальний зворот ne... que
 </td>
-<td width="25%" style="vertical-align:top !important;">Інтонація реплік погодження. Інтонація складного речення. Інтонація реплік поради та висловлення почуттів</td>
+<td width="25%" style="vertical-align:top !important;">Удосконалення знань, навичок і вмінь набутих у попередні роки навчання</td>
             </tr>
 </table>
 
